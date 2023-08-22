@@ -1,1 +1,1 @@
-This are just the mini projects for my education on C++. 
+These are just mini projects for my practice on C++. 
